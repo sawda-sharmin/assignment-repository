@@ -13,9 +13,10 @@ section{
 .half-width{
     width: 50%;
     padding: 10%;
+
 }
 .half-width img{
-    width: 100%;
+    width: 70%;
     padding-right: 10%;
 }
 .button{
@@ -27,4 +28,46 @@ section{
     color:black;
     font-weight: 200;
     border-radius: 2px;
+}
+.mission{
+    text-align: center;
+}
+.blue-color{
+    color: midnightblue;
+}
+.pink-color{
+    color: pink;
+}
+.flexible-container{
+    display: flex;
+    padding: 2px;
+}
+.picture-item{
+   width: 45%;
+   margin-left: 5%;
+   margin-right: 2%;
+   padding-left: 10px;
+   border-radius: 10px;
+   box-shadow: 2px 5px 15px burlywood;
+}
+.peach-color{
+    color: crimson;
+}
+.orange-color{
+    color: crimson;
+    border-radius: 5px;
+}
+.corona-item{
+    display: flex;
+    width: 50%;
+}
+.corona-item img{
+width: 80%;
+padding-left: 10px;
+}
+footer{
+    text-align: center;
+    text-decoration: darkgray;
+    background-color: darkblue;
+    
 }
